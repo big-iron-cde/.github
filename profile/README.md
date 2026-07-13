@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" alt="Big Iron logo" width="200">
+  <img src="https://raw.githubusercontent.com/big-iron-cde/.github/main/images/cover.png" alt="Big Iron cover" width="100%">
 </p>
 
 # Big Iron CDE
